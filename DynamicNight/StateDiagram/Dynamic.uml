@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_Xodb4G6zEeeDdu52GOGPNA" name="model">
+  <packagedElement xmi:type="uml:StateMachine" xmi:id="_Xoml0G6zEeeDdu52GOGPNA" name="StateMachine1">
+    <region xmi:type="uml:Region" xmi:id="_XowW0G6zEeeDdu52GOGPNA" name="Region1">
+      <transition xmi:type="uml:Transition" xmi:id="_hjgIsG6zEeeDdu52GOGPNA" name="click_onmenu_Options" source="_elAXQG6zEeeDdu52GOGPNA" target="_gHDY0G6zEeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_LXZLgG62EeeDdu52GOGPNA" name="click_ontext_MaxBrightness" source="_gHDY0G6zEeeDdu52GOGPNA" target="_Hj654G62EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_THqp4G62EeeDdu52GOGPNA" name="click_inlist_ID1" source="_PuaPEG62EeeDdu52GOGPNA" target="_QyQ4wG62EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_ZOWUQG62EeeDdu52GOGPNA" source="_Hj654G62EeeDdu52GOGPNA" target="_PuaPEG62EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_iDlPkG62EeeDdu52GOGPNA" name="click_inlist_ID2" source="_PuaPEG62EeeDdu52GOGPNA" target="_gQjywG62EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_mMiB8G62EeeDdu52GOGPNA" name="click_inlist_ID3" source="_PuaPEG62EeeDdu52GOGPNA" target="_kPbcEG62EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_sXRs8G62EeeDdu52GOGPNA" name="click_inlist_ID4" source="_PuaPEG62EeeDdu52GOGPNA" target="_ppgfIG62EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_yP9XkG62EeeDdu52GOGPNA" name="click_inlist_ID5" source="_PuaPEG62EeeDdu52GOGPNA" target="_vVUycG62EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_3taewG62EeeDdu52GOGPNA" name="click_inlist_ID6" source="_PuaPEG62EeeDdu52GOGPNA" target="_1zxckG62EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_-QS88G62EeeDdu52GOGPNA" name="click_inlist_ID7" source="_PuaPEG62EeeDdu52GOGPNA" target="_5qNioG62EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_JAhlUG63EeeDdu52GOGPNA" name="click_inlist_ID8" source="_PuaPEG62EeeDdu52GOGPNA" target="_GVneQG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_Mi11gG63EeeDdu52GOGPNA" name="click_inlist_ID9" source="_PuaPEG62EeeDdu52GOGPNA" target="_K0gEYG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_UBWOcG63EeeDdu52GOGPNA" name="click_inlist_ID10" source="_PuaPEG62EeeDdu52GOGPNA" target="_RBfLEG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_khCUAG63EeeDdu52GOGPNA" name="click_inlist_ID11" source="_PuaPEG62EeeDdu52GOGPNA" target="_izudoG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_o6oxgG63EeeDdu52GOGPNA" name="click_onbutton_Cancel" source="_PuaPEG62EeeDdu52GOGPNA" target="_nwkyIG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_xuudUG63EeeDdu52GOGPNA" source="_QyQ4wG62EeeDdu52GOGPNA" target="_uvvjsG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_ySi8EG63EeeDdu52GOGPNA" source="_gQjywG62EeeDdu52GOGPNA" target="_uvvjsG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_y3ZVkG63EeeDdu52GOGPNA" source="_kPbcEG62EeeDdu52GOGPNA" target="_uvvjsG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_zZ17UG63EeeDdu52GOGPNA" source="_ppgfIG62EeeDdu52GOGPNA" target="_uvvjsG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_0BYccG63EeeDdu52GOGPNA" source="_vVUycG62EeeDdu52GOGPNA" target="_uvvjsG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_1nNKwG63EeeDdu52GOGPNA" source="_1zxckG62EeeDdu52GOGPNA" target="_uvvjsG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_2gPrkG63EeeDdu52GOGPNA" source="_5qNioG62EeeDdu52GOGPNA" target="_uvvjsG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_3AFpQG63EeeDdu52GOGPNA" source="_GVneQG63EeeDdu52GOGPNA" target="_uvvjsG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_4-blQG63EeeDdu52GOGPNA" source="_K0gEYG63EeeDdu52GOGPNA" target="_uvvjsG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_5hVeAG63EeeDdu52GOGPNA" source="_RBfLEG63EeeDdu52GOGPNA" target="_uvvjsG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_5-15YG63EeeDdu52GOGPNA" source="_izudoG63EeeDdu52GOGPNA" target="_uvvjsG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_6gt3YG63EeeDdu52GOGPNA" source="_nwkyIG63EeeDdu52GOGPNA" target="_uvvjsG63EeeDdu52GOGPNA"/>
+      <transition xmi:type="uml:Transition" xmi:id="_J5VnMG64EeeCLMXhYZdnFQ" source="_uvvjsG63EeeDdu52GOGPNA" target="_HlNocG64EeeCLMXhYZdnFQ"/>
+      <transition xmi:type="uml:Transition" xmi:id="_UphzUG64EeeCLMXhYZdnFQ" name="lib_Enable_Checkbox_ID0" source="_HlNocG64EeeCLMXhYZdnFQ" target="_LoiT8G64EeeCLMXhYZdnFQ"/>
+      <transition xmi:type="uml:Transition" xmi:id="_YdsBcG64EeeCLMXhYZdnFQ" name="lib_Disable_Checkbox_ID0" source="_HlNocG64EeeCLMXhYZdnFQ" target="_MUFLUG64EeeCLMXhYZdnFQ"/>
+      <transition xmi:type="uml:Transition" xmi:id="_cDKTUG64EeeCLMXhYZdnFQ" source="_LoiT8G64EeeCLMXhYZdnFQ" target="_azqaUG64EeeCLMXhYZdnFQ"/>
+      <transition xmi:type="uml:Transition" xmi:id="_cm6goG64EeeCLMXhYZdnFQ" source="_MUFLUG64EeeCLMXhYZdnFQ" target="_azqaUG64EeeCLMXhYZdnFQ"/>
+      <transition xmi:type="uml:Transition" xmi:id="_hDy7oG64EeeCLMXhYZdnFQ" name="lib_Enable_Checkbox_ID1" source="_azqaUG64EeeCLMXhYZdnFQ" target="_eLbnYG64EeeCLMXhYZdnFQ"/>
+      <transition xmi:type="uml:Transition" xmi:id="_hjPQsG64EeeCLMXhYZdnFQ" name="lib_Disable_Checkbox_ID1" source="_azqaUG64EeeCLMXhYZdnFQ" target="_fITfUG64EeeCLMXhYZdnFQ"/>
+      <transition xmi:type="uml:Transition" xmi:id="_t9z7AG64EeeCLMXhYZdnFQ" source="_eLbnYG64EeeCLMXhYZdnFQ" target="_sbU0kG64EeeCLMXhYZdnFQ"/>
+      <transition xmi:type="uml:Transition" xmi:id="_ub6zUG64EeeCLMXhYZdnFQ" source="_fITfUG64EeeCLMXhYZdnFQ" target="_sbU0kG64EeeCLMXhYZdnFQ"/>
+      <transition xmi:type="uml:Transition" xmi:id="_wxhYwG64EeeCLMXhYZdnFQ" name="go_back" source="_sbU0kG64EeeCLMXhYZdnFQ" target="_vboj4G64EeeCLMXhYZdnFQ"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_elAXQG6zEeeDdu52GOGPNA" name="Initial1"/>
+      <subvertex xmi:type="uml:State" xmi:id="_gHDY0G6zEeeDdu52GOGPNA" name="OpenOption"/>
+      <subvertex xmi:type="uml:State" xmi:id="_Hj654G62EeeDdu52GOGPNA" name="MaxBrightness"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_PuaPEG62EeeDdu52GOGPNA" name="Choice1" kind="choice"/>
+      <subvertex xmi:type="uml:State" xmi:id="_QyQ4wG62EeeDdu52GOGPNA" name="Value5"/>
+      <subvertex xmi:type="uml:State" xmi:id="_gQjywG62EeeDdu52GOGPNA" name="value10"/>
+      <subvertex xmi:type="uml:State" xmi:id="_kPbcEG62EeeDdu52GOGPNA" name="value15"/>
+      <subvertex xmi:type="uml:State" xmi:id="_ppgfIG62EeeDdu52GOGPNA" name="value25"/>
+      <subvertex xmi:type="uml:State" xmi:id="_vVUycG62EeeDdu52GOGPNA" name="value38"/>
+      <subvertex xmi:type="uml:State" xmi:id="_1zxckG62EeeDdu52GOGPNA" name="value50"/>
+      <subvertex xmi:type="uml:State" xmi:id="_5qNioG62EeeDdu52GOGPNA" name="value62"/>
+      <subvertex xmi:type="uml:State" xmi:id="_GVneQG63EeeDdu52GOGPNA" name="value75"/>
+      <subvertex xmi:type="uml:State" xmi:id="_K0gEYG63EeeDdu52GOGPNA" name="value85"/>
+      <subvertex xmi:type="uml:State" xmi:id="_RBfLEG63EeeDdu52GOGPNA" name="value90"/>
+      <subvertex xmi:type="uml:State" xmi:id="_izudoG63EeeDdu52GOGPNA" name="value100"/>
+      <subvertex xmi:type="uml:State" xmi:id="_nwkyIG63EeeDdu52GOGPNA" name="Cancel"/>
+      <subvertex xmi:type="uml:State" xmi:id="_uvvjsG63EeeDdu52GOGPNA" name="Bighness"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_HlNocG64EeeCLMXhYZdnFQ" name="Choice2" kind="choice"/>
+      <subvertex xmi:type="uml:State" xmi:id="_LoiT8G64EeeCLMXhYZdnFQ" name="EnableONwithBattery"/>
+      <subvertex xmi:type="uml:State" xmi:id="_MUFLUG64EeeCLMXhYZdnFQ" name="DisableONwithBattery"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_azqaUG64EeeCLMXhYZdnFQ" name="Choice3" kind="choice"/>
+      <subvertex xmi:type="uml:State" xmi:id="_eLbnYG64EeeCLMXhYZdnFQ" name="EnableShoeseconds"/>
+      <subvertex xmi:type="uml:State" xmi:id="_fITfUG64EeeCLMXhYZdnFQ" name="DisableShoeseconds"/>
+      <subvertex xmi:type="uml:State" xmi:id="_sbU0kG64EeeCLMXhYZdnFQ" name="finish"/>
+      <subvertex xmi:type="uml:FinalState" xmi:id="_vboj4G64EeeCLMXhYZdnFQ" name="FinalState1"/>
+    </region>
+  </packagedElement>
+</uml:Model>
