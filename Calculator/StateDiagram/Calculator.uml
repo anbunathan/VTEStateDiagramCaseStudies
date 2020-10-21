@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_MuzoMHOJEee6LJwG3eFx5w" name="model">
+  <packagedElement xmi:type="uml:StateMachine" xmi:id="_M0UaUHOJEee6LJwG3eFx5w" name="StateMachine1">
+    <region xmi:type="uml:Region" xmi:id="_M1p3EHOJEee6LJwG3eFx5w">
+      <transition xmi:type="uml:Transition" xmi:id="_wIYk4HOJEee6LJwG3eFx5w" source="_p--9sHOJEee6LJwG3eFx5w" target="_tk7wsHOJEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_HiEoIHOKEee6LJwG3eFx5w" name="click_onmenu_clearhistory" source="_tk7wsHOJEee6LJwG3eFx5w" target="_ztIeAHOJEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_LVa98HOKEee6LJwG3eFx5w" name="click_onbutton_ID0" source="_-elRUHQsEee6LJwG3eFx5w" target="_ztIeAHOJEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_XfJ6cHOLEee6LJwG3eFx5w" name="click_onbutton_4" source="_bcOpcHOKEee6LJwG3eFx5w" target="_RlNrkHOLEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_bWmGEHOLEee6LJwG3eFx5w" source="_ztIeAHOJEee6LJwG3eFx5w" target="_bcOpcHOKEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_fOSwYHOLEee6LJwG3eFx5w" name="click_onbutton_7" source="_bcOpcHOKEee6LJwG3eFx5w" target="_VqjwUHOLEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_jPzeAHOLEee6LJwG3eFx5w" name="click_onbutton_2" source="_bcOpcHOKEee6LJwG3eFx5w" target="_g1OR8HOLEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_qEVs4HOLEee6LJwG3eFx5w" name="click_onbutton_8" source="_bcOpcHOKEee6LJwG3eFx5w" target="_mG7cIHOLEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_4PlqoHOLEee6LJwG3eFx5w" name="click_onbutton_0" source="_bcOpcHOKEee6LJwG3eFx5w" target="_0ytUEHOLEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_GgC4gHOMEee6LJwG3eFx5w" name="click_onbutton_plus" source="_RlNrkHOLEee6LJwG3eFx5w" target="_Dx-IsHOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_LWd04HOMEee6LJwG3eFx5w" name="click_onbutton_5" source="_Dx-IsHOMEee6LJwG3eFx5w" target="_IB4esHOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_VTvWUHOMEee6LJwG3eFx5w" name="click_onbutton_equals" source="_IB4esHOMEee6LJwG3eFx5w" target="_SJF_QHOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_nWDsQHOMEee6LJwG3eFx5w" source="_SJF_QHOMEee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_22CBQHOMEee6LJwG3eFx5w" name="click_onbutton_minus" source="_VqjwUHOLEee6LJwG3eFx5w" target="_r9l4EHOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_94xEMHOMEee6LJwG3eFx5w" name="click_onbutton_5" source="_r9l4EHOMEee6LJwG3eFx5w" target="_5hbQgHOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_EDsVYHONEee6LJwG3eFx5w" name="click_onbutton_equals" source="_5hbQgHOMEee6LJwG3eFx5w" target="_A8EdIHONEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_MEZccHONEee6LJwG3eFx5w" name="click_onbutton_multiply" source="_g1OR8HOLEee6LJwG3eFx5w" target="_IPeZUHONEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_TDlcIHONEee6LJwG3eFx5w" name="click_onbutton_3" source="_IPeZUHONEee6LJwG3eFx5w" target="_Oq_EMHONEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_a_UjoHONEee6LJwG3eFx5w" name="click_onbutton_equals" source="_Oq_EMHONEee6LJwG3eFx5w" target="_WFcqoHONEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_cZDWsHONEee6LJwG3eFx5w" source="_A8EdIHONEee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_dJXZUHONEee6LJwG3eFx5w" source="_WFcqoHONEee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_lkhnwHONEee6LJwG3eFx5w" name="click_onbutton_divide" source="_mG7cIHOLEee6LJwG3eFx5w" target="_iTG6UHONEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_0xpSMHONEee6LJwG3eFx5w" name="click_onbutton_4" source="_iTG6UHONEee6LJwG3eFx5w" target="_nHIqAHONEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_7Brs4HONEee6LJwG3eFx5w" name="click_onbutton_equals" source="_nHIqAHONEee6LJwG3eFx5w" target="_3pozAHONEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_8pLPIHONEee6LJwG3eFx5w" source="_3pozAHONEee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_RPMQ4HOOEee6LJwG3eFx5w" source="_0ytUEHOLEee6LJwG3eFx5w" target="_BmNw4HOOEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_TpZCcHOOEee6LJwG3eFx5w" name="click_onbutton_factorial" source="_BmNw4HOOEee6LJwG3eFx5w" target="_JAfKEHOOEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_WD9ncHOOEee6LJwG3eFx5w" name="click_onbutton_equals" source="_JAfKEHOOEee6LJwG3eFx5w" target="_OOLW8HOOEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_YJV_kHOOEee6LJwG3eFx5w" source="_OOLW8HOOEee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_j49BUHOOEee6LJwG3eFx5w" name="click_onbutton_power" source="_BmNw4HOOEee6LJwG3eFx5w" target="_agy_IHOOEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_psEPcHOOEee6LJwG3eFx5w" name="click_onbutton_1" source="_agy_IHOOEee6LJwG3eFx5w" target="_nI7kUHOOEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_xFHgoHOOEee6LJwG3eFx5w" name="click_onbutton_equals" source="_nI7kUHOOEee6LJwG3eFx5w" target="_tD8KMHOOEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_ySXW4HOOEee6LJwG3eFx5w" source="_tD8KMHOOEee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_8G2IsHOOEee6LJwG3eFx5w" name="click_onmenu_Clearhistory" source="_lza00HOMEee6LJwG3eFx5w" target="_5tkkMHOOEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_BaPU8HOPEee6LJwG3eFx5w" name="click_onbutton_1" source="_5tkkMHOOEee6LJwG3eFx5w" target="_-1b14HOOEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_GcH6cHOPEee6LJwG3eFx5w" name="click_onbutton_0" source="_-1b14HOOEee6LJwG3eFx5w" target="_EM0xUHOPEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_Mghs4HOPEee6LJwG3eFx5w" name="click_onbutton_0" source="_EM0xUHOPEee6LJwG3eFx5w" target="_DDf54HQgEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_Ufix4HOPEee6LJwG3eFx5w" name="click_LongOnTextAndPress_ID0_100" source="_KzKzMHOPEee6LJwG3eFx5w" target="_N21_kHOPEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_gzNi8HOPEee6LJwG3eFx5w" name="click_onbutton_1" source="_N21_kHOPEee6LJwG3eFx5w" target="_YC4VwHOPEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_nCIjUHOPEee6LJwG3eFx5w" name="click_onbutton_0" source="_YC4VwHOPEee6LJwG3eFx5w" target="_kO3xgHOPEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_tEkm4HOPEee6LJwG3eFx5w" name="click_onbutton_0" source="_kO3xgHOPEee6LJwG3eFx5w" target="_qfgpIHOPEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_vvbDkHOPEee6LJwG3eFx5w" name="click_LongOnTextAndPress_ID1_100" source="_KzKzMHOPEee6LJwG3eFx5w" target="_qfgpIHOPEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_0I8BgHOPEee6LJwG3eFx5w" name="click_LongOnTextAndPress_ID2_100" source="_qfgpIHOPEee6LJwG3eFx5w" target="_zccH4HOPEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_ukzjMHOSEee6LJwG3eFx5w" name="click_onmenu_Advancedpanel" source="_bcOpcHOKEee6LJwG3eFx5w" target="_Zchh4HOSEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_5R8bUHOSEee6LJwG3eFx5w" name="click_onbutton_sine" source="_Zchh4HOSEee6LJwG3eFx5w" target="_0DgnkHOSEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_-ZT9wHOSEee6LJwG3eFx5w" name="click_onbutton_0" source="_0DgnkHOSEee6LJwG3eFx5w" target="_7uadwHOSEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_DgtVYHOTEee6LJwG3eFx5w" name="click_onbutton_equals" source="_7uadwHOSEee6LJwG3eFx5w" target="_Av2XUHOTEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_FmA1AHOTEee6LJwG3eFx5w" source="_Av2XUHOTEee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_J8wy0HOTEee6LJwG3eFx5w" name="click_onbutton_cosine" source="_Zchh4HOSEee6LJwG3eFx5w" target="_ITbdgHOTEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_Pr440HOTEee6LJwG3eFx5w" name="click_onbutton_0" source="_ITbdgHOTEee6LJwG3eFx5w" target="_MlnEYHOTEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_UdRkMHOTEee6LJwG3eFx5w" name="click_onbutton_equals" source="_MlnEYHOTEee6LJwG3eFx5w" target="_SDissHOTEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_VxtAgHOTEee6LJwG3eFx5w" source="_SDissHOTEee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_byUfIHOTEee6LJwG3eFx5w" name="click_onbutton_tangent" source="_Zchh4HOSEee6LJwG3eFx5w" target="_Yi4HoHOTEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_gc-3cHOTEee6LJwG3eFx5w" name="click_onbutton_0" source="_Yi4HoHOTEee6LJwG3eFx5w" target="_eGHtwHOTEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_mPFY8HOTEee6LJwG3eFx5w" name="click_onbutton_equals" source="_eGHtwHOTEee6LJwG3eFx5w" target="_jjrioHOTEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_ni_Q0HOTEee6LJwG3eFx5w" source="_jjrioHOTEee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_vzEQoHOTEee6LJwG3eFx5w" name="click_onbutton_naturallogarithm" source="_Zchh4HOSEee6LJwG3eFx5w" target="_qo__gHOTEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_3o0E4HOTEee6LJwG3eFx5w" name="click_onbutton_1" source="_qo__gHOTEee6LJwG3eFx5w" target="_0cFDIHOTEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_86UawHOTEee6LJwG3eFx5w" name="click_onbutton_equals" source="_0cFDIHOTEee6LJwG3eFx5w" target="_6TrvsHOTEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_9_QpkHOTEee6LJwG3eFx5w" source="_6TrvsHOTEee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_E1RfIHOUEee6LJwG3eFx5w" name="click_onbutton_pi" source="_Zchh4HOSEee6LJwG3eFx5w" target="_CkPQoHOUEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_K_-G0HOUEee6LJwG3eFx5w" name="click_onbutton_equals" source="_CkPQoHOUEee6LJwG3eFx5w" target="_ISJOoHOUEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_NMNU4HOUEee6LJwG3eFx5w" source="_ISJOoHOUEee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_XfiJkHO6Eee6LJwG3eFx5w" name="click_onbutton_logarithm" source="_Zchh4HOSEee6LJwG3eFx5w" target="_TnIUoHO6Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_fKtskHO6Eee6LJwG3eFx5w" name="click_onbutton_1" source="_TnIUoHO6Eee6LJwG3eFx5w" target="_cJsLkHO6Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_psY7kHO6Eee6LJwG3eFx5w" name="click_onbutton_equals" source="_cJsLkHO6Eee6LJwG3eFx5w" target="_jLNtkHO6Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_rpDckHO6Eee6LJwG3eFx5w" source="_jLNtkHO6Eee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_zz1FoHO6Eee6LJwG3eFx5w" name="click_onbutton_Eulersnumber" source="_Zchh4HOSEee6LJwG3eFx5w" target="_wgGrEHO6Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_8D76oHO6Eee6LJwG3eFx5w" name="click_onbutton_equals" source="_wgGrEHO6Eee6LJwG3eFx5w" target="_3SEHEHO6Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_-aneIHO6Eee6LJwG3eFx5w" source="_3SEHEHO6Eee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_HqkmkHO7Eee6LJwG3eFx5w" name="click_onbutton_squareroot" source="_Zchh4HOSEee6LJwG3eFx5w" target="_ECaNEHO7Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_OXWAkHO7Eee6LJwG3eFx5w" name="click_onbutton_4" source="_ECaNEHO7Eee6LJwG3eFx5w" target="_LsI-kHO7Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_TiiTEHO7Eee6LJwG3eFx5w" name="click_onbutton_equals" source="_LsI-kHO7Eee6LJwG3eFx5w" target="_RCUZEHO7Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_U3_qIHO7Eee6LJwG3eFx5w" source="_RCUZEHO7Eee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_fD_kEHO7Eee6LJwG3eFx5w" name="click_onbutton_leftparenthesis" source="_Zchh4HOSEee6LJwG3eFx5w" target="_ZSk_EHO7Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_knN8EHO7Eee6LJwG3eFx5w" name="click_onbutton_7" source="_ZSk_EHO7Eee6LJwG3eFx5w" target="_hrTkkHO7Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_qVgUkHO7Eee6LJwG3eFx5w" name="click_onbutton_minus" source="_hrTkkHO7Eee6LJwG3eFx5w" target="_ne7wEHO7Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_03a0IHO7Eee6LJwG3eFx5w" name="click_onbutton_5" source="_ne7wEHO7Eee6LJwG3eFx5w" target="_xWRBkHO7Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_6m_mEHO7Eee6LJwG3eFx5w" name="click_onmenu_Advancedpanel" source="_xWRBkHO7Eee6LJwG3eFx5w" target="_3y3RkHO7Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_AdrFkHO8Eee6LJwG3eFx5w" name="click_onbutton_rightparenthesis" source="_3y3RkHO7Eee6LJwG3eFx5w" target="_-D8OEHO7Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_JHQxkHO8Eee6LJwG3eFx5w" name="click_onbutton_multiply" source="_-D8OEHO7Eee6LJwG3eFx5w" target="_GDL8kHO8Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_OvTYIHO8Eee6LJwG3eFx5w" name="click_onbutton_3" source="_GDL8kHO8Eee6LJwG3eFx5w" target="_Mih-kHO8Eee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_TOncEHO8Eee6LJwG3eFx5w" name="AssertEdit_ID0_6" source="_Mih-kHO8Eee6LJwG3eFx5w" target="_0Zs5wHQxEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_WyDGkHO8Eee6LJwG3eFx5w" source="_SD25IHO8Eee6LJwG3eFx5w" target="_lza00HOMEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_IWsR0HQgEee6LJwG3eFx5w" source="_DDf54HQgEee6LJwG3eFx5w" target="_KzKzMHOPEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_CN_iUHQtEee6LJwG3eFx5w" name="click_onbutton_plus" source="_tk7wsHOJEee6LJwG3eFx5w" target="_7-y1IHQsEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_Crq80HQtEee6LJwG3eFx5w" name="click_onbutton_equals" source="_7-y1IHQsEee6LJwG3eFx5w" target="_-elRUHQsEee6LJwG3eFx5w"/>
+      <transition xmi:type="uml:Transition" xmi:id="_6v1VYHQxEee6LJwG3eFx5w" name="click_onbutton_equals" source="_0Zs5wHQxEee6LJwG3eFx5w" target="_SD25IHO8Eee6LJwG3eFx5w"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_p--9sHOJEee6LJwG3eFx5w" name="Initial1"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_tk7wsHOJEee6LJwG3eFx5w" name="Choice1" kind="choice"/>
+      <subvertex xmi:type="uml:State" xmi:id="_ztIeAHOJEee6LJwG3eFx5w" name="AssertEdit_ID0_Blank"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_bcOpcHOKEee6LJwG3eFx5w" name="Choice2" kind="choice"/>
+      <subvertex xmi:type="uml:State" xmi:id="_RlNrkHOLEee6LJwG3eFx5w" name="AssertEdit_ID0_4"/>
+      <subvertex xmi:type="uml:State" xmi:id="_VqjwUHOLEee6LJwG3eFx5w" name="AssertEdit_ID0_7"/>
+      <subvertex xmi:type="uml:State" xmi:id="_g1OR8HOLEee6LJwG3eFx5w" name="AssertEdit_ID0_2"/>
+      <subvertex xmi:type="uml:State" xmi:id="_mG7cIHOLEee6LJwG3eFx5w" name="AssertEdit_ID0_8"/>
+      <subvertex xmi:type="uml:State" xmi:id="_0ytUEHOLEee6LJwG3eFx5w" name="Dsiplay0"/>
+      <subvertex xmi:type="uml:State" xmi:id="_Dx-IsHOMEee6LJwG3eFx5w" name="DisplayPlus"/>
+      <subvertex xmi:type="uml:State" xmi:id="_IB4esHOMEee6LJwG3eFx5w" name="Display5"/>
+      <subvertex xmi:type="uml:State" xmi:id="_SJF_QHOMEee6LJwG3eFx5w" name="AssertEdit_ID0_9"/>
+      <subvertex xmi:type="uml:State" xmi:id="_lza00HOMEee6LJwG3eFx5w" name="TestCutCopy"/>
+      <subvertex xmi:type="uml:State" xmi:id="_r9l4EHOMEee6LJwG3eFx5w" name="DisplayMinus"/>
+      <subvertex xmi:type="uml:State" xmi:id="_5hbQgHOMEee6LJwG3eFx5w" name="Display5"/>
+      <subvertex xmi:type="uml:State" xmi:id="_A8EdIHONEee6LJwG3eFx5w" name="AssertEdit_ID0_2"/>
+      <subvertex xmi:type="uml:State" xmi:id="_IPeZUHONEee6LJwG3eFx5w" name="DisplayMultiply"/>
+      <subvertex xmi:type="uml:State" xmi:id="_Oq_EMHONEee6LJwG3eFx5w" name="Display3"/>
+      <subvertex xmi:type="uml:State" xmi:id="_WFcqoHONEee6LJwG3eFx5w" name="AssertEdit_ID0_6"/>
+      <subvertex xmi:type="uml:State" xmi:id="_iTG6UHONEee6LJwG3eFx5w" name="DisplayDivision"/>
+      <subvertex xmi:type="uml:State" xmi:id="_nHIqAHONEee6LJwG3eFx5w" name="Display4"/>
+      <subvertex xmi:type="uml:State" xmi:id="_3pozAHONEee6LJwG3eFx5w" name="AssertEdit_ID0_2"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_BmNw4HOOEee6LJwG3eFx5w" name="Choice3" kind="choice"/>
+      <subvertex xmi:type="uml:State" xmi:id="_JAfKEHOOEee6LJwG3eFx5w" name="DisplayFactorial"/>
+      <subvertex xmi:type="uml:State" xmi:id="_OOLW8HOOEee6LJwG3eFx5w" name="DisplayResult"/>
+      <subvertex xmi:type="uml:State" xmi:id="_agy_IHOOEee6LJwG3eFx5w" name="DisplayPower"/>
+      <subvertex xmi:type="uml:State" xmi:id="_nI7kUHOOEee6LJwG3eFx5w" name="Display1"/>
+      <subvertex xmi:type="uml:State" xmi:id="_tD8KMHOOEee6LJwG3eFx5w" name="DisplayResult"/>
+      <subvertex xmi:type="uml:State" xmi:id="_5tkkMHOOEee6LJwG3eFx5w" name="ClearScreen"/>
+      <subvertex xmi:type="uml:State" xmi:id="_-1b14HOOEee6LJwG3eFx5w" name="Display1"/>
+      <subvertex xmi:type="uml:State" xmi:id="_EM0xUHOPEee6LJwG3eFx5w" name="Display10"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_KzKzMHOPEee6LJwG3eFx5w" name="Choice4" kind="choice"/>
+      <subvertex xmi:type="uml:State" xmi:id="_N21_kHOPEee6LJwG3eFx5w" name="cut"/>
+      <subvertex xmi:type="uml:State" xmi:id="_YC4VwHOPEee6LJwG3eFx5w" name="Display1"/>
+      <subvertex xmi:type="uml:State" xmi:id="_kO3xgHOPEee6LJwG3eFx5w" name="Display10"/>
+      <subvertex xmi:type="uml:State" xmi:id="_qfgpIHOPEee6LJwG3eFx5w" name="startpaste"/>
+      <subvertex xmi:type="uml:FinalState" xmi:id="_zccH4HOPEee6LJwG3eFx5w" name="FinalState1"/>
+      <subvertex xmi:type="uml:Pseudostate" xmi:id="_Zchh4HOSEee6LJwG3eFx5w" name="Choice5" kind="choice"/>
+      <subvertex xmi:type="uml:State" xmi:id="_0DgnkHOSEee6LJwG3eFx5w" name="DisplaySin"/>
+      <subvertex xmi:type="uml:State" xmi:id="_7uadwHOSEee6LJwG3eFx5w" name="Display0"/>
+      <subvertex xmi:type="uml:State" xmi:id="_Av2XUHOTEee6LJwG3eFx5w" name="AssertEdit_ID0_0"/>
+      <subvertex xmi:type="uml:State" xmi:id="_ITbdgHOTEee6LJwG3eFx5w" name="DisplayCos"/>
+      <subvertex xmi:type="uml:State" xmi:id="_MlnEYHOTEee6LJwG3eFx5w" name="Display0"/>
+      <subvertex xmi:type="uml:State" xmi:id="_SDissHOTEee6LJwG3eFx5w" name="AssertEdit_ID0_1"/>
+      <subvertex xmi:type="uml:State" xmi:id="_Yi4HoHOTEee6LJwG3eFx5w" name="DisplayTan"/>
+      <subvertex xmi:type="uml:State" xmi:id="_eGHtwHOTEee6LJwG3eFx5w" name="Display0"/>
+      <subvertex xmi:type="uml:State" xmi:id="_jjrioHOTEee6LJwG3eFx5w" name="AssertEdit_ID0_0"/>
+      <subvertex xmi:type="uml:State" xmi:id="_qo__gHOTEee6LJwG3eFx5w" name="DisplayLn"/>
+      <subvertex xmi:type="uml:State" xmi:id="_0cFDIHOTEee6LJwG3eFx5w" name="Display1"/>
+      <subvertex xmi:type="uml:State" xmi:id="_6TrvsHOTEee6LJwG3eFx5w" name="AssertEdit_ID0_0"/>
+      <subvertex xmi:type="uml:State" xmi:id="_CkPQoHOUEee6LJwG3eFx5w" name="DisplayPi"/>
+      <subvertex xmi:type="uml:State" xmi:id="_ISJOoHOUEee6LJwG3eFx5w" name="AssertEdit_ID0_3dot14159265"/>
+      <subvertex xmi:type="uml:State" xmi:id="_TnIUoHO6Eee6LJwG3eFx5w" name="DisplayLog"/>
+      <subvertex xmi:type="uml:State" xmi:id="_cJsLkHO6Eee6LJwG3eFx5w" name="Display1"/>
+      <subvertex xmi:type="uml:State" xmi:id="_jLNtkHO6Eee6LJwG3eFx5w" name="AssertEdit_ID0_0"/>
+      <subvertex xmi:type="uml:State" xmi:id="_wgGrEHO6Eee6LJwG3eFx5w" name="Displaye"/>
+      <subvertex xmi:type="uml:State" xmi:id="_3SEHEHO6Eee6LJwG3eFx5w" name="AssertEdit_ID0_2dot71828183"/>
+      <subvertex xmi:type="uml:State" xmi:id="_ECaNEHO7Eee6LJwG3eFx5w" name="DisplayRoot"/>
+      <subvertex xmi:type="uml:State" xmi:id="_LsI-kHO7Eee6LJwG3eFx5w" name="Display4"/>
+      <subvertex xmi:type="uml:State" xmi:id="_RCUZEHO7Eee6LJwG3eFx5w" name="AssertEdit_ID0_2"/>
+      <subvertex xmi:type="uml:State" xmi:id="_ZSk_EHO7Eee6LJwG3eFx5w" name="DisplayLeftPara"/>
+      <subvertex xmi:type="uml:State" xmi:id="_hrTkkHO7Eee6LJwG3eFx5w" name="Display7"/>
+      <subvertex xmi:type="uml:State" xmi:id="_ne7wEHO7Eee6LJwG3eFx5w" name="DisplayMinus"/>
+      <subvertex xmi:type="uml:State" xmi:id="_xWRBkHO7Eee6LJwG3eFx5w" name="Display5"/>
+      <subvertex xmi:type="uml:State" xmi:id="_3y3RkHO7Eee6LJwG3eFx5w" name="DisplayAdvanced"/>
+      <subvertex xmi:type="uml:State" xmi:id="_-D8OEHO7Eee6LJwG3eFx5w" name="DisplayRightPara"/>
+      <subvertex xmi:type="uml:State" xmi:id="_GDL8kHO8Eee6LJwG3eFx5w" name="DisplayMultiply"/>
+      <subvertex xmi:type="uml:State" xmi:id="_Mih-kHO8Eee6LJwG3eFx5w" name="Display3"/>
+      <subvertex xmi:type="uml:State" xmi:id="_SD25IHO8Eee6LJwG3eFx5w" name="AssertEdit_ID0_6"/>
+      <subvertex xmi:type="uml:State" xmi:id="_DDf54HQgEee6LJwG3eFx5w" name="Display100"/>
+      <subvertex xmi:type="uml:State" xmi:id="_7-y1IHQsEee6LJwG3eFx5w" name="PlusClick"/>
+      <subvertex xmi:type="uml:State" xmi:id="_-elRUHQsEee6LJwG3eFx5w" name="EqualTo"/>
+      <subvertex xmi:type="uml:State" xmi:id="_0Zs5wHQxEee6LJwG3eFx5w" name="EqualTo"/>
+    </region>
+  </packagedElement>
+</uml:Model>
