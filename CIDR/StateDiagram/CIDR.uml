@@ -25,14 +25,14 @@
       <transition xmi:type="uml:Transition" xmi:id="_NLUR4HHEEeeM8JTHMMxA5Q" name="go_back" source="_FdNWsHHEEeeM8JTHMMxA5Q" target="_KmDf0HHEEeeM8JTHMMxA5Q"/>
       <transition xmi:type="uml:Transition" xmi:id="_TFsloHHEEeeM8JTHMMxA5Q" name="click_onmenu_Preferences" source="_KmDf0HHEEeeM8JTHMMxA5Q" target="_QU0ZcHHEEeeM8JTHMMxA5Q"/>
       <transition xmi:type="uml:Transition" xmi:id="_dfz0EHHEEeeM8JTHMMxA5Q" name="click_ontext_HistoryEntries" source="_QU0ZcHHEEeeM8JTHMMxA5Q" target="_cafKwHHEEeeM8JTHMMxA5Q"/>
-      <transition xmi:type="uml:Transition" xmi:id="_rAnGoHHEEeeM8JTHMMxA5Q" name="click_inlist_ID0" source="_cafKwHHEEeeM8JTHMMxA5Q" target="_mgtM0HHEEeeM8JTHMMxA5Q"/>
-      <transition xmi:type="uml:Transition" xmi:id="_sPcRQHHEEeeM8JTHMMxA5Q" name="click_inlist_ID1" source="_cafKwHHEEeeM8JTHMMxA5Q" target="_mgtM0HHEEeeM8JTHMMxA5Q"/>
-      <transition xmi:type="uml:Transition" xmi:id="_woWyQHHEEeeM8JTHMMxA5Q" name="click_inlist_ID2" source="_cafKwHHEEeeM8JTHMMxA5Q" target="_mgtM0HHEEeeM8JTHMMxA5Q"/>
+      <transition xmi:type="uml:Transition" xmi:id="_rAnGoHHEEeeM8JTHMMxA5Q" name="click_ontext_ID0_10" source="_cafKwHHEEeeM8JTHMMxA5Q" target="_mgtM0HHEEeeM8JTHMMxA5Q"/>
+      <transition xmi:type="uml:Transition" xmi:id="_sPcRQHHEEeeM8JTHMMxA5Q" name="click_ontext_ID0_100" source="_cafKwHHEEeeM8JTHMMxA5Q" target="_mgtM0HHEEeeM8JTHMMxA5Q"/>
+      <transition xmi:type="uml:Transition" xmi:id="_woWyQHHEEeeM8JTHMMxA5Q" name="click_ontext_ID0_1000" source="_cafKwHHEEeeM8JTHMMxA5Q" target="_mgtM0HHEEeeM8JTHMMxA5Q"/>
       <transition xmi:type="uml:Transition" xmi:id="_6TXfAHHEEeeM8JTHMMxA5Q" name="click_onbutton_Cancel" source="_cafKwHHEEeeM8JTHMMxA5Q" target="_mgtM0HHEEeeM8JTHMMxA5Q"/>
       <transition xmi:type="uml:Transition" xmi:id="_bBcewHHFEeeM8JTHMMxA5Q" name="click_ontext_InputKeyboard" source="_mgtM0HHEEeeM8JTHMMxA5Q" target="_UN_1AHHFEeeM8JTHMMxA5Q"/>
-      <transition xmi:type="uml:Transition" xmi:id="_A6xbYHHGEeeM8JTHMMxA5Q" name="click_inlist_ID0" source="_UN_1AHHFEeeM8JTHMMxA5Q" target="_95jtIHHFEeeM8JTHMMxA5Q"/>
-      <transition xmi:type="uml:Transition" xmi:id="_CTuLUHHGEeeM8JTHMMxA5Q" name="click_inlist_ID1" source="_UN_1AHHFEeeM8JTHMMxA5Q" target="_95jtIHHFEeeM8JTHMMxA5Q"/>
-      <transition xmi:type="uml:Transition" xmi:id="_F3J10HHGEeeM8JTHMMxA5Q" name="click_inlist_ID2" source="_UN_1AHHFEeeM8JTHMMxA5Q" target="_95jtIHHFEeeM8JTHMMxA5Q"/>
+      <transition xmi:type="uml:Transition" xmi:id="_A6xbYHHGEeeM8JTHMMxA5Q" name="click_ontext_ID0_CustomSPACESYMHex" source="_UN_1AHHFEeeM8JTHMMxA5Q" target="_95jtIHHFEeeM8JTHMMxA5Q"/>
+      <transition xmi:type="uml:Transition" xmi:id="_CTuLUHHGEeeM8JTHMMxA5Q" name="click_ontext_ID0_Number" source="_UN_1AHHFEeeM8JTHMMxA5Q" target="_95jtIHHFEeeM8JTHMMxA5Q"/>
+      <transition xmi:type="uml:Transition" xmi:id="_F3J10HHGEeeM8JTHMMxA5Q" name="click_ontext_ID0_Text" source="_UN_1AHHFEeeM8JTHMMxA5Q" target="_95jtIHHFEeeM8JTHMMxA5Q"/>
       <transition xmi:type="uml:Transition" xmi:id="_Iyx5cHHGEeeM8JTHMMxA5Q" name="click_onbutton_Cancel" source="_UN_1AHHFEeeM8JTHMMxA5Q" target="_95jtIHHFEeeM8JTHMMxA5Q"/>
       <transition xmi:type="uml:Transition" xmi:id="_Q7iJQHHGEeeM8JTHMMxA5Q" name="click_oncheckbox_ID1" source="_95jtIHHFEeeM8JTHMMxA5Q" target="_N4rcQHHGEeeM8JTHMMxA5Q"/>
       <transition xmi:type="uml:Transition" xmi:id="_dzt8oHHGEeeM8JTHMMxA5Q" name="go_back" source="_N4rcQHHGEeeM8JTHMMxA5Q" target="_a4Yz8HHGEeeM8JTHMMxA5Q"/>
