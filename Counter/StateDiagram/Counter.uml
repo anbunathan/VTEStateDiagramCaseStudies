@@ -21,8 +21,8 @@
       <transition xmi:type="uml:Transition" xmi:id="_lxHe0HXpEeetl9IPvxcCsQ" source="_iRMQwHXoEeetl9IPvxcCsQ" target="_jnpQ4HXpEeetl9IPvxcCsQ"/>
       <transition xmi:type="uml:Transition" xmi:id="_meXmYHXpEeetl9IPvxcCsQ" source="_kwMCwHXoEeetl9IPvxcCsQ" target="_jnpQ4HXpEeetl9IPvxcCsQ"/>
       <transition xmi:type="uml:Transition" xmi:id="_t1oH0HXpEeetl9IPvxcCsQ" name="click_ontext_theme" source="_jnpQ4HXpEeetl9IPvxcCsQ" target="_tJc-UHXpEeetl9IPvxcCsQ"/>
-      <transition xmi:type="uml:Transition" xmi:id="_RvXyUHXqEeetl9IPvxcCsQ" name="click_inlist_ID0" source="_tJc-UHXpEeetl9IPvxcCsQ" target="_N7nM0HXqEeetl9IPvxcCsQ"/>
-      <transition xmi:type="uml:Transition" xmi:id="_SYHNUHXqEeetl9IPvxcCsQ" name="click_inlist_ID1" source="_tJc-UHXpEeetl9IPvxcCsQ" target="_P3g40HXqEeetl9IPvxcCsQ"/>
+      <transition xmi:type="uml:Transition" xmi:id="_RvXyUHXqEeetl9IPvxcCsQ" name="click_inlist_ID1_2" source="_tJc-UHXpEeetl9IPvxcCsQ" target="_N7nM0HXqEeetl9IPvxcCsQ"/>
+      <transition xmi:type="uml:Transition" xmi:id="_SYHNUHXqEeetl9IPvxcCsQ" name="click_inlist_ID2_2" source="_tJc-UHXpEeetl9IPvxcCsQ" target="_P3g40HXqEeetl9IPvxcCsQ"/>
       <transition xmi:type="uml:Transition" xmi:id="_eO7qUHXqEeetl9IPvxcCsQ" source="_N7nM0HXqEeetl9IPvxcCsQ" target="_cnoVUHXqEeetl9IPvxcCsQ"/>
       <transition xmi:type="uml:Transition" xmi:id="_esODQHXqEeetl9IPvxcCsQ" source="_P3g40HXqEeetl9IPvxcCsQ" target="_cnoVUHXqEeetl9IPvxcCsQ"/>
       <transition xmi:type="uml:Transition" xmi:id="_jUB74HXqEeetl9IPvxcCsQ" name="scroll_tobottom" source="_cnoVUHXqEeetl9IPvxcCsQ" target="_gu660HXqEeetl9IPvxcCsQ"/>
