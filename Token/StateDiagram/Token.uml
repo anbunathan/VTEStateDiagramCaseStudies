@@ -52,7 +52,7 @@
         <transition xmi:type="uml:Transition" xmi:id="_auH5wGyZEeelo67t37amhQ" name="click_onbutton_ok" source="_HAdcUGyZEeelo67t37amhQ" target="_T6wIgGyZEeelo67t37amhQ"/>
         <transition xmi:type="uml:Transition" xmi:id="_q7zpUGyZEeelo67t37amhQ" name="entertext_ID0_1234" source="_T6wIgGyZEeelo67t37amhQ" target="_npMCAGyZEeelo67t37amhQ"/>
         <transition xmi:type="uml:Transition" xmi:id="_-pbDcGyZEeelo67t37amhQ" name="click_onbutton_Remove" source="_npMCAGyZEeelo67t37amhQ" target="_7G-3cGyZEeelo67t37amhQ"/>
-        <transition xmi:type="uml:Transition" xmi:id="_KFooEGyaEeelo67t37amhQ" name="click_inlist_ID0" source="_7G-3cGyZEeelo67t37amhQ" target="_HokIsGyaEeelo67t37amhQ"/>
+        <transition xmi:type="uml:Transition" xmi:id="_KFooEGyaEeelo67t37amhQ" name="click_inlist_ID1_1" source="_7G-3cGyZEeelo67t37amhQ" target="_HokIsGyaEeelo67t37amhQ"/>
         <transition xmi:type="uml:Transition" xmi:id="_SntW0GyaEeelo67t37amhQ" name="go_back" source="_HokIsGyaEeelo67t37amhQ" target="_Q3dhMGyaEeelo67t37amhQ"/>
         <transition xmi:type="uml:Transition" xmi:id="_mMXCMGyaEeelo67t37amhQ" source="_Q3dhMGyaEeelo67t37amhQ" target="_e0D-8GyaEeelo67t37amhQ"/>
         <transition xmi:type="uml:Transition" xmi:id="_7QeVMGyaEeelo67t37amhQ" name="click_onmenu_Deletetoken" source="_e0D-8GyaEeelo67t37amhQ" target="_xTuYMGyaEeelo67t37amhQ"/>
