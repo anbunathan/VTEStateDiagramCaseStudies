@@ -1,0 +1,54 @@
+Download Input files from
+https://github.com/anbunathan/VTEStateDiagramCaseStudies
+and unzip in local directory.
+Ex: D:\trial\VTEStateDiagramCaseStudies
+
+Project Parameters in the order:
+1. Project Name
+2. App Package Name
+3. App Class Name
+4. Test App Package Name
+
+BMI
+com.zola.bmi
+BMIMain
+com.zola.bmi
+
+CIDR
+us.lindanrandy.cidrcalculator
+CIDRCalculator
+us.lindanrandy.cidrcalculator
+
+Calculator
+com.android.calculator3
+Calculator
+com.android.calculator3
+
+Counter
+me.tsukanov.counter.ui
+MainActivity
+me.tsukanov.counter.ui
+
+DynamicNight
+de.quaddyservices.dynamicnightlight
+MainActivity
+de.quaddyservices.dynamicnightlight
+
+FreeOTP
+org.fedorahosted.freeotp
+MainActivity
+org.fedorahosted.freeotp
+
+Notepad
+com.example.android.notepad
+NotesList
+com.example.android.notepad
+
+Token
+uk.co.bitethebullet.android.token
+TokenList
+uk.co.bitethebullet.android.token
+
+
+
+
